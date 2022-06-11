@@ -1,0 +1,16 @@
+:root {
+  --first-color: #1b2430;
+  --second-color: #51557e;
+  --third-color: #816797;
+  --fourth-color: #d6d5a8;
+}
+
+body {
+  text-align: center;
+  background-color: var(--second-color);
+  color: var(--fourth-color);
+}
+a {
+  color: var(--third-color);
+  background-color: var(--fourth-color);
+}
